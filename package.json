@@ -1,0 +1,29 @@
+{
+  "name": "cold-emails-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "baseai": "baseai"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lokeshchoudharyprogrammer/cold-emails-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/lokeshchoudharyprogrammer/cold-emails-ai/issues"
+  },
+  "homepage": "https://github.com/lokeshchoudharyprogrammer/cold-emails-ai#readme",
+  "dependencies": {
+    "@baseai/core": "^0.9.43",
+    "dotenv": "^16.4.7"
+  },
+  "devDependencies": {
+    "baseai": "^0.9.43"
+  }
+}
